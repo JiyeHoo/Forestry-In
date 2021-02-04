@@ -27,7 +27,6 @@ Android端设计，林业信息录入系统。
 # 截图
 （使用了我自己搭建的图床外链，速度较慢）
 
-![pic_1][1]
 ![pic_2][2]
 ![pic_3][3]
 ![pic_4][4]
@@ -35,7 +34,6 @@ Android端设计，林业信息录入系统。
 ![pic_6][6]
 ![pic_7][7]
 
-  [1]: http://tc.jiyehoo.com:81/images/2021/02/04/1148448802.jpg
   [2]: http://tc.jiyehoo.com:81/images/2021/02/04/737609612.jpg
   [3]: http://tc.jiyehoo.com:81/images/2021/02/04/269645444.jpg
   [4]: http://tc.jiyehoo.com:81/images/2021/02/04/2033634577.jpg
